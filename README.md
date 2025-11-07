@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/anonimdlik">
-    <img src="https://komarev.com/ghpvc/?username=anonimdlik&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/anonymousdlik">
+    <img src="https://komarev.com/ghpvc/?username=anonymousdlik&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   </a>
-  <a href="https://github.com/anonimdlik?tab=followers">
-    <img src="https://img.shields.io/github/followers/anonimdlik?label=Followers&style=social" alt="GitHub followers" />
+  <a href="https://github.com/anonymousdlik?tab=followers">
+    <img src="https://img.shields.io/github/followers/anonymousdlik?label=Followers&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -93,5 +93,5 @@ I am a dedicated technology enthusiast currently pursuing my studies in Elektric
 </div>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/anonimdlik">anonimdlik</a> - Universitas Bina Darma</i>
+  <i>⭐️ From <a href="https://github.com/anonymousdlik">anonymousdlik</a> - Universitas Bina Darma</i>
 </p>
