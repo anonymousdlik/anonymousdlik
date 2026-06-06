@@ -31,9 +31,10 @@ width="480" alt="Coding Animation"/>
 
 ## 👋 About
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="240" alt="Engineer GIF"/>
+
 **Software Engineer & AI Enthusiast**
 
-Fokus di perpotongan **IoT** dan **AI** — dari mikrokontroler sampai neural network.
+Fokus di perpotongan **IoT** dan **AI**  dari mikrokontroler sampai neural network.
 Suka bikin hal-hal yang terlihat sederhana tapi di dalamnya ada otak.
 
 > *"Build smart things that think."*
@@ -46,8 +47,6 @@ Suka bikin hal-hal yang terlihat sederhana tapi di dalamnya ada otak.
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anonymousdlik&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=7ee8fa&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousdlik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2d95&text_color=b4c2e0)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anonymousdlik&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff2d95&currStreakLabel=00d4ff&sideLabels=b4c2e0)
 
