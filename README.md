@@ -51,7 +51,7 @@
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
   </svg>
-https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/refs/heads/main/cyberpunk.gif
+
   <h1>Fadli Yeh</h1>
   <p><em>Software Engineer | AI Enthusiast</em></p>
 
