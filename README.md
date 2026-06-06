@@ -84,22 +84,6 @@ Suka bikin hal-hal yang terlihat sederhana tapi di dalamnya ada otak.
 
 > *"Build smart things that think."*
 
----
-
-## 🛠️ Featured Projects
-
-Semua deskripsi langsung dari repo — selalu sinkron.
-
-| | Project | Description |
-|---|---|---|
-| 🤖 | **Jarvis-ID** | AI pribadi berbahasa Indonesia (fork OpenJarvis) |
-| 🌿 | **Fakhara AI** | Platform Agentic AI untuk audit ESG otomatis bagi UMKM Indonesia. Analisis operasional bisnis, rekomendasi aksi ramah lingkungan, dan pembuatan laporan ESG secara instan. |
-| ⚡ | **Electrical AI Assistant** | Asisten AI untuk teknik elektro |
-| 🔢 | **Math AI Assistant** | Pemecah soal matematika bertenaga AI |
-| 🐧 | **Linux AI Assistant** | AI-powered Linux troubleshooting with Groq API |
-| 🔋 | **Simulasi Energi** | Simulasi & analisis sistem energi |
-
----
 
 ## 📊 GitHub Analytics
 
