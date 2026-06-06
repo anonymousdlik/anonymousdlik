@@ -41,7 +41,9 @@ Suka bikin hal-hal yang terlihat sederhana tapi di dalamnya ada otak.
 
 <!-- Semua grafik auto-update dari GitHub API -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonymousdlik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=b4c2e0&ring_color=ff2d95)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FadliYeh&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=7ee8fa&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousdlik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2d95&text_color=b4c2e0)
 
